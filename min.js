@@ -14,5 +14,14 @@ else if (discount ==="egypt"){
 }
 console.log(price);
 
+let phone = {
+    name: 'mohamed gamal',
+    agee:45,
+    plice: 45*45,
+    fount:' من كَبِرَ في السِّنّ الرفيع الشأن سيِّد القوم المعلم والرئيس من أسماء الله الحسنى',
+
+   
+}
+
 
 
